@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Мессия</string>
+    <string name="menu_button_remind">Напоминалка</string>
+    <string name="menu_button_share">Поделиться</string>
+    <string name="activity_messiah_button">Получить наставление!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8391218411454353/8613078627</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8391218411454353/3764076620</string>
+    <string name="test_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

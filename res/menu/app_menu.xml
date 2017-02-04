@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.leoge.messiah.activity.Messiah">
+
+    <item android:id="@+id/reminder"
+        android:icon="@mipmap/ic_alarm_white_24dp"
+        android:title="@string/menu_button_remind"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/share"
+        android:icon="@mipmap/ic_share_white_24dp"
+        android:title="@string/menu_button_share"
+        app:showAsAction="always"/>
+</menu>
